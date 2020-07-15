@@ -1,3 +1,10 @@
+/**
+ * Title: app.component.ts, assignment 2.3
+ * Author: Chris Bohnet
+ * Date: 15 July 2020
+ * Description: App component
+ */
+
 import { Component } from '@angular/core';
 
 @Component({
@@ -7,6 +14,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   isLoggedIn: Boolean = true;
-  title: string = 'enhanced-profile-app';
-  assignment: string ='Exercise 2.3 - Data binding';
+  assignment: string = 'Assignment 2.3 - Data Binding';
 }

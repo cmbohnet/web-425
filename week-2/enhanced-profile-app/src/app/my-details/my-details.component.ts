@@ -25,7 +25,8 @@ export class MyDetailsComponent implements OnInit {
   myProfile: Person;
 
   constructor() {
-    this.myProfile = new Person("Richard Krasso", "Pizza", "Red");
+    this.myProfile = new Person("Chris Bohnet", "Pizza", "Red");
+    this.myProfile.toString();
   }
 
   ngOnInit(): void {
