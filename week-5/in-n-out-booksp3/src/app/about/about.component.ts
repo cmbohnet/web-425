@@ -5,6 +5,7 @@
  * Description: About component (About page)
  */
 
+ //imports
 import { Component, OnInit } from '@angular/core';
 
 @Component({

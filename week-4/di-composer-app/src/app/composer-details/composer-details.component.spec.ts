@@ -1,3 +1,9 @@
+/**
+ * Title: composer-details.component.spec.ts
+ * Author: Chris Bohnet
+ * Date: 31 July 2020
+ * Description: composer details component spec file
+ */
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { ComposerDetailsComponent } from './composer-details.component';

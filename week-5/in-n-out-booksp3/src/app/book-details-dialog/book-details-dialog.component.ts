@@ -5,6 +5,7 @@
  * Description: Book details dialog (dialog box for displaying the details of a book)
  */
 
+ //imports
 import { Component, OnInit, Inject } from '@angular/core';
 import { MAT_DIALOG_DATA, MatDialogRef } from '@angular/material/dialog';
 import { IBook } from '../book.interface';

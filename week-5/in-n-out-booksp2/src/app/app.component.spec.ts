@@ -1,3 +1,11 @@
+/**
+ * Title: app.component.spec.ts
+ * Author: Chris Bohnet
+ * Date: 6 August 2020
+ * Description: app component spec module
+ */
+
+//imports
 import { TestBed, async } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
 import { AppComponent } from './app.component';

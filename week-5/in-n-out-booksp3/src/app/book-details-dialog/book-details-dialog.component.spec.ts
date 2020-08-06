@@ -1,3 +1,11 @@
+/**
+ * Title: book-details-dialog.component.spec
+ * Author: Chris Bohnet
+ * Date: 6 August 2020
+ * Description: Book details dialog spec module
+ */
+
+ //imports
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { BookDetailsDialogComponent } from './book-details-dialog.component';

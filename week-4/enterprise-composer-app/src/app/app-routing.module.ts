@@ -5,6 +5,7 @@
  * Description: Routing file
  */
 
+ //imports
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { ComposerListComponent } from './composer-list/composer-list.component';
@@ -12,7 +13,7 @@ import { ContactComponent } from './contact/contact.component';
 import { AboutComponent } from './about/about.component';
 import { ComposerDetailsComponent } from './composer-details/composer-details.component';
 
-
+//include components
 const routes: Routes = [
   {
     path: '',

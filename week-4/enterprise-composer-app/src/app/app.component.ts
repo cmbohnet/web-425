@@ -5,6 +5,7 @@
  * Description: App component
  */
 
+ //import
 import { Component } from '@angular/core';
 
 @Component({

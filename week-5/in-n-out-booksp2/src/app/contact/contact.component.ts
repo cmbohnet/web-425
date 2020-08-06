@@ -1,3 +1,11 @@
+/**
+ * Title: contact.component.ts
+ * Author: Chris Bohnet
+ * Date: 6 August 2020
+ * Description: contact component module
+ */
+
+//imports
 import { Component, OnInit } from '@angular/core';
 
 @Component({

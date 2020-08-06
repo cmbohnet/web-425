@@ -5,6 +5,7 @@
  * Description: Service class for Composer objects
  */
 
+ //add IComposer interface import
 import { Injectable } from '@angular/core';
 import { IComposer } from './composer.interface';
 

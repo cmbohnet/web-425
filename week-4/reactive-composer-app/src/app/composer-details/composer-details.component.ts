@@ -5,6 +5,7 @@
  * Description: Composer details component (Composer details page)
  */
 
+ //imports
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { IComposer } from '../composer.interface';

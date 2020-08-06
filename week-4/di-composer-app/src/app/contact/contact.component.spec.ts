@@ -1,3 +1,9 @@
+/**
+ * Title: contact.component.spec.ts
+ * Author: Chris Bohnet
+ * Date: 31 July 2020
+ * Description: contact component spec file
+ */
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { ContactComponent } from './contact.component';

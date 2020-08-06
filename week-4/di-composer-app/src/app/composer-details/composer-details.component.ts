@@ -5,11 +5,13 @@
  * Description: Composer details component (Composer details page)
  */
 
+ //add composer service import
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { IComposer } from '../composer.interface';
 import { ComposerService } from '../composer.service';
 
+//add composerService to the constructor
 @Component({
   selector: 'app-composer-details',
   templateUrl: './composer-details.component.html',

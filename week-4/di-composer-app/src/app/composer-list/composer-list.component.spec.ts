@@ -1,3 +1,9 @@
+/**
+ * Title: composer-list.component.spec.ts
+ * Author: Chris Bohnet
+ * Date: 31 July 2020
+ * Description: composer list component spec file
+ */
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { ComposerListComponent } from './composer-list.component';

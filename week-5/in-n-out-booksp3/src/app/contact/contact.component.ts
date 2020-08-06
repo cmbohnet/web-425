@@ -5,6 +5,7 @@
  * Description: Contact component (Contact page)
  */
 
+ //imports
 import { Component, OnInit } from '@angular/core';
 
 @Component({

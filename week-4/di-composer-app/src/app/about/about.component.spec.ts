@@ -1,3 +1,9 @@
+/**
+ * Title: about.component.spec.ts
+ * Author: Chris Bohnet
+ * Date: 31 July 2020
+ * Description: about component spec file
+ */
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { AboutComponent } from './about.component';

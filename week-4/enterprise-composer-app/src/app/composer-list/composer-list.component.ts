@@ -5,6 +5,7 @@
  * Description: Composer list component; displays a list of composers
  */
 
+//imports
 import { Component, OnInit } from '@angular/core';
 import { IComposer } from '../composer.interface';
 import { ComposerService } from '../composer.service';

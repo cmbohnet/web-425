@@ -1,3 +1,12 @@
+/**
+ * Title: book-list.component.spec.ts
+ * Author: Chris Bohnet
+ * Date: 5 August 2020
+ * Description: Book list spec component spec module
+ *
+ */
+
+ //imports
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { BookListComponent } from './book-list.component';

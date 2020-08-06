@@ -1,3 +1,12 @@
+/**
+ * Title: book-list.component.ts
+ * Author: Chris Bohnet
+ * Date: 5 August 2020
+ * Description: book list component  module
+ *
+ */
+
+ //imports
 import { Component, OnInit } from '@angular/core';
 
 @Component({
